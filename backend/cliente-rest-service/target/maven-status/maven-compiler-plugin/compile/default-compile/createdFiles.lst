@@ -1,0 +1,5 @@
+com\banco\bogota\cliente\rest\service\ClientController.class
+com\banco\bogota\App.class
+com\banco\bogota\cliente\rest\service\Client.class
+com\banco\bogota\cliente\rest\service\ClienteRestServiceApplication.class
+com\banco\bogota\cliente\rest\service\GlobalExceptionHandler.class
